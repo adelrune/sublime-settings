@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"Boxy Theme",
+		"C++11",
+		"Emmet",
+		"Emoji",
+		"Git",
+		"GitGutter",
+		"Jimbly's Clipboard History",
+		"jQuery",
+		"Package Control",
+		"Rust Enhanced",
+		"Scratchpad",
+		"SideBarEnhancements",
+		"Stack Overflow Snippets",
+		"tern_for_sublime",
+		"Unicode Character Highlighter"
+	]
+}
