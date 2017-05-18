@@ -2,6 +2,9 @@
     { "keys": ["super+shift+up"], "command": "swap_line_up" },
     { "keys": ["super+shift+down"], "command": "swap_line_down" },
     { "keys": ["ctrl+shift+up"], "command": "move", "args": {"by": "lines", "forward": false, "extend": true} },
-    { "keys": ["ctrl+shift+down"], "command": "move", "args": {"by": "lines", "forward": true, "extend": true} },    
+    { "keys": ["ctrl+shift+down"], "command": "move", "args": {"by": "lines", "forward": true, "extend": true} },
     { "keys": ["f1"], "command": "reindent"},
+    { "keys": ["ctrl+keypad_divide"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["ctrl+shift+keypad_divide"], "command": "toggle_comment", "args": { "block": true } },
+    { "keys": ["f2"], "command": "power_cursor_add" },
 ]
