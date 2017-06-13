@@ -16,7 +16,9 @@
 		"Increment Selection",
 		"Jimbly's Clipboard History",
 		"jQuery",
+		"JsFormat",
 		"Jump Along Indent",
+		"Minify",
 		"MoveTab",
 		"Package Control",
 		"PowerCursors",
@@ -24,6 +26,7 @@
 		"Scratchpad",
 		"SideBarEnhancements",
 		"Stack Overflow Snippets",
+		"Sublime Files",
 		"tern_for_sublime",
 		"Unicode Character Highlighter"
 	]
