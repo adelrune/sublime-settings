@@ -10,4 +10,6 @@
     { "keys": ["ctrl+o"],"command": "sublime_files","args": {"command": "navigate"}},
     { "keys": ["ctrl+shift+d"], "command": "find_under_expand_skip" },
     { "keys": ["ctrl+shift+c"], "command": "duplicate_line" },
+    { "keys": ["ctrl+e"], "command": "move_to", "args": {"to": "hardeol", "extend": false} },
+    { "keys": ["ctrl+q"], "command": "move_to", "args": {"to": "bol", "extend": false} },
 ]
