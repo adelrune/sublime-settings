@@ -5,6 +5,7 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/Colorcoder/Monokai (Colorcoded).tmTheme",
 	"draw_minimap_border": false,
+	"figlet_font": "beer_pub",
 	"file_exclude_patterns":
 	[
 		"*~",
