@@ -5,7 +5,7 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/Colorcoder/Monokai (Colorcoded).tmTheme",
 	"draw_minimap_border": false,
-	"figlet_font": "beer_pub",
+	"figlet_font": "maxfour",
 	"file_exclude_patterns":
 	[
 		"*~",
@@ -39,5 +39,6 @@
 	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"show_full_path": false,
 	"theme": "Boxy Monokai.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }

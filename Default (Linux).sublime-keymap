@@ -12,4 +12,5 @@
     { "keys": ["ctrl+shift+c"], "command": "duplicate_line" },
     { "keys": ["ctrl+e"], "command": "move_to", "args": {"to": "hardeol", "extend": false} },
     { "keys": ["ctrl+q"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+    { "keys": ["ctrl+shift+a"], "command": "find_all_under" },
 ]
