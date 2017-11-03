@@ -3,7 +3,7 @@
 	"auto_complete_selector": "meta.tag - punctuation.definition.tag.begin, source, text",
 	"auto_match_enabled": false,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Colorcoder/Monokai (Colorcoded).tmTheme",
+	"color_scheme": "Packages/User/Boxy Monokai (Flake8Lint).tmTheme",
 	"draw_minimap_border": false,
 	"figlet_font": "maxfour",
 	"file_exclude_patterns":
