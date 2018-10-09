@@ -30,6 +30,11 @@
 		"*.db",
 		"*.sublime-workspace"
 	],
+	"font_face": "Fira code medium",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
 	"font_size": 10,
 	"highlight_modified_tabs": true,
 	"ignored_packages":

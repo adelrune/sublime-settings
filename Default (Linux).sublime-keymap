@@ -1,6 +1,6 @@
 [
-    { "keys": ["super+shift+up"], "command": "swap_line_up" },
-    { "keys": ["super+shift+down"], "command": "swap_line_down" },
+    { "keys": ["ctrl+alt+shift+up"], "command": "swap_line_up" },
+    { "keys": ["ctrl+alt+shift+down"], "command": "swap_line_down" },
     { "keys": ["ctrl+shift+up"], "command": "move", "args": {"by": "lines", "forward": false, "extend": true} },
     { "keys": ["ctrl+shift+down"], "command": "move", "args": {"by": "lines", "forward": true, "extend": true} },
     { "keys": ["f1"], "command": "reindent"},
